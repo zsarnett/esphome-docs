@@ -77,7 +77,7 @@ def seo_visit(self: HTMLTranslator, node: SEONode):
         create_content_meta("twitter:card", "summary_large_image")
     else:
         create_content_meta("twitter:card", "summary")
-    create_content_meta("twitter:site", "@OttoWinter_")
+    create_content_meta("twitter:site", "@esphome_")
     create_content_meta("twitter:creator", node.author_twitter)
     create_content_meta("twitter:description", node.description)
 
