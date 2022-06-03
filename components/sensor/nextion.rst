@@ -36,7 +36,6 @@ See :doc:`/components/display/nextion` for setting up the display
         nextion_id: nextion1
         name: "Current Temperature"
         variable_name: temperature
-        hass_component_name: sensor.temperature
       - platform: nextion
         id: s01
         component_id: 2
