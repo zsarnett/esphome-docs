@@ -151,7 +151,6 @@ Below is the ESPHome configuration file that will get you up and running. This a
         address: 0x1
         modbus_id: mod_bus_epever
         command_throttle: 200ms
-        setup_priority: -10
         update_interval: ${updates}
 
     packages:

@@ -23,7 +23,7 @@ for more information.
 
 .. warning::
 
-    Please note that metering chip inside of PZEM module is powered from AC side and it has to be on during startup of ESPHome device, othervise measure results won't be visible. 
+    Please note that metering chip inside of PZEM module is powered from AC side and it has to be on during startup of ESPHome device, othervise measure results won't be visible.
 
 
 .. figure:: images/pzem-ac.png
@@ -147,7 +147,6 @@ You must set the ``address`` of the ``modbus_controller`` to the current address
         address: 0x1
         modbus_id: mod_bus_pzem
         command_throttle: 0ms
-        setup_priority: -10
         update_interval: 30s
 
 

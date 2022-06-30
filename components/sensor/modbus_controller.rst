@@ -159,7 +159,6 @@ SDM-120 returns the values as floats using 32 bits in 2 registers.
             address: 2
             modbus_id: mod_bus
             command_throttle: 100ms
-            setup_priority: -10
             update_interval: 30s
         sensors:
           - platform: modbus_controller
