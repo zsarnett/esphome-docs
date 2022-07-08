@@ -67,7 +67,7 @@ Logos
     Made with ESPHome white on transparent (`svg </_static/made-for-esphome-white-on-transparent.svg>`__, `png </_static/made-for-esphome-white-on-transparent.png>`__)
 
 
-.. figure:: /_static/works-with-home-assistant-locally.png
+.. figure:: /_static/works-locally-with-home-assistant.png
     :align: center
     :width: 100%
     :class: transparent-background
