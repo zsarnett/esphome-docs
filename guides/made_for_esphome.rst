@@ -72,4 +72,4 @@ Logos
     :width: 100%
     :class: transparent-background
 
-    Works locally with Home Assistant badge (, `png </_static/works-with-home-assistant-locally.png>`__)
+    Works locally with Home Assistant badge (`svg </_static/works-locally-with-home-assistant.svg>`__, `png </_static/works-locally-with-home-assistant.png>`__)
