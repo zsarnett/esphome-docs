@@ -10,7 +10,8 @@ Made for ESPHome
 ESPHome has a great and active community that loves creating and sharing projects.
 You can apply for your project to get the Made for ESPHome stamp of approval.
 This ensures that your project is powered by ESPHome and guarantees a
-minimum level of customizability to users.
+minimum level of customizability to users. Any Made for ESPHome projects, will be
+eligible to use the "Works locally with Home Assistant" badge for free.
 
 Requirements
 ------------
@@ -64,3 +65,11 @@ Logos
     :class: transparent-background
 
     Made with ESPHome white on transparent (`svg </_static/made-for-esphome-white-on-transparent.svg>`__, `png </_static/made-for-esphome-white-on-transparent.png>`__)
+
+
+.. figure:: /_static/works-with-home-assistant-locally.png
+    :align: center
+    :width: 100%
+    :class: transparent-background
+
+    Works locally with Home Assistant badge (, `png </_static/works-with-home-assistant-locally.png>`__)
