@@ -11,7 +11,7 @@ ESPHome has a great and active community that loves creating and sharing project
 You can apply for your project to get the Made for ESPHome stamp of approval.
 This ensures that your project is powered by ESPHome and guarantees a
 minimum level of customizability to users. Any Made for ESPHome projects will also be 
-eligible to use the "Works locally with Home Assistant" badge for free.
+eligible to use the ["Works locally with Home Assistant"](https://partner.home-assistant.io/) badge for free.
 
 Requirements
 ------------
