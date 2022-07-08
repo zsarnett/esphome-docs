@@ -10,7 +10,7 @@ Made for ESPHome
 ESPHome has a great and active community that loves creating and sharing projects.
 You can apply for your project to get the Made for ESPHome stamp of approval.
 This ensures that your project is powered by ESPHome and guarantees a
-minimum level of customizability to users. Any Made for ESPHome projects, will be
+minimum level of customizability to users. Any Made for ESPHome projects will also be 
 eligible to use the "Works locally with Home Assistant" badge for free.
 
 Requirements
@@ -25,7 +25,9 @@ Your product has to match the following requirements:
  - Your product name cannot contain **ESPHome** except in the case of *ending with* **for ESPHome**
 
 When your project matches all requirements of the Made for ESPHome program,
-you can apply for permission to carry the logo by emailing esphome@nabucasa.com
+you can apply for permission to carry the logo by emailing esphome@nabucasa.com. After approval,
+if your project wants to carry the "Works locally with Home Assistant" badge you can apply by emailing
+partner@nabucasa.com with your Made for ESPHome approval email.
 
 Logos
 -----
