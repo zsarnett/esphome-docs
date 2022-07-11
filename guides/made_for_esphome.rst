@@ -28,7 +28,7 @@ Your product has to match the following requirements:
 When your project matches all requirements of the Made for ESPHome program,
 you can apply for permission to carry the logo by emailing esphome@nabucasa.com. After approval,
 if your project wants to carry the "Works locally with Home Assistant" badge you can apply by emailing
-partner@nabucasa.com with your Made for ESPHome approval email.
+partner@nabucasa.com with your Made for ESPHome approval.
 
 Logos
 -----
